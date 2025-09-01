@@ -1,0 +1,11 @@
+{
+"ts": 1725165600000,
+"v_rms": 229.8,
+"i_rms": 15.2,
+"pf": 0.92,
+"thd_est": 6.4,
+"status": "normal|warning|fault",
+"fault_prob": 0.02,
+"lineId": 1,
+"panelId": "dwarka-lt-01"
+}
